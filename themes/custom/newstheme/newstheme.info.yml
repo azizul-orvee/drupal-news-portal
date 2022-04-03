@@ -1,0 +1,21 @@
+name: Newstheme
+description: Drupal 9 Custom News Theme
+type: theme
+core_version_requirement: 9.x
+base theme: stable
+libraries:
+  - newstheme/global-css
+  - newstheme/global-js
+
+regions:
+  # branding: Branding
+  # navigation: Main navigation
+  # search: Search
+  # featured: Featured
+  # content: Content
+  # right_sidebar: Right sidebar
+  # footer_first: Footer First
+  # footer_second: Footer Second
+  # footer_third: Footer Third
+  # footer_bottom: Footer Bottom
+  card: Card

@@ -1,0 +1,10 @@
+.content {
+    width: 80%;
+    min-height: 100vh;
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(211, 4, 4);
+}
+
+.custom {
+    background-color: blue;
+}
